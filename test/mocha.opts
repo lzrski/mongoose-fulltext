@@ -1,4 +1,4 @@
 --require should
 --colors
---compilers coffee:coffee-script
+--compilers coffee:coffee-script/register
 --reporter spec

@@ -1,3 +1,4 @@
+.PHONY: all test clean
 PATH:=./node_modules/.bin/:$(PATH)
 
 # $(for package in $(cat .browserify); do echo -n " -r $package"; done)
