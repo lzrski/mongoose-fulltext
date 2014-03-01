@@ -1,0 +1,19 @@
+{
+  "name": "mongoose-fulltext",
+  "version": "0.0.0",
+  "description": "Fulltext search plugin with indices and fuzzy matching for Mongoose",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "search",
+    "fulltext",
+    "fuzzy",
+    "damerau - levenshtein",
+    "mongoose",
+    "plugin"
+  ],
+  "author": "Tadeusz Łazurski (http://lazurski.pl)",
+  "license": "GPL 3"
+}
