@@ -8,7 +8,7 @@ Single prohibited contract term from the register
 
 mongoose    = require "mongoose"
 async       = require "async"
-_           = require "underscore"
+_           = require "lodash"
 _.words     = require "underscore.string.words"
 Index       = require "./Index"
 Similar     = require "./Similar"
